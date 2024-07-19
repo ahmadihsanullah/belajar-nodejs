@@ -1,18 +1,17 @@
 [
   {
-    "nama": "ahmad",
+    "nama": "abi",
+    "email": "abi@gmail.com",
     "noHp": "123"
   },
   {
-    "nama": "ahmad",
-    "noHp": "890"
+    "nama": "umi",
+    "email": "umi@gmail.com",
+    "noHp": "12345"
   },
   {
     "nama": "ahmad",
-    "noHp": "876"
-  },
-  {
-    "nama": "air",
-    "noHp": "123"
+    "email": "ahmad@gmail.com",
+    "noHp": "123123"
   }
 ]
